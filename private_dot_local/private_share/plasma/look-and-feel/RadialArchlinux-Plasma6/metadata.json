@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "maire.nunez@gmail.com",
+                "Name": "mrmaire"
+            }
+        ],
+        "Category": "",
+        "Description": "Radial Archlinux Splashscreen",
+        "Id": "RadialArchlinux-Plasma6",
+        "License": "GPLv3",
+        "Name": "Radial Archlinux",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
